@@ -1,0 +1,13 @@
+.cardd{
+    width: calc(100%/3);
+    padding: 10px;
+    border-radius: 40px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    height: 220px; 
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}

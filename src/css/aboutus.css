@@ -1,0 +1,77 @@
+body{
+    
+background-color: rgb(49, 44, 44);
+width: 100vw;
+max-width: 100vw;
+overflow-x: hidden;
+
+}
+.aboutus{
+  
+background-color: rgb(49, 44, 44);
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+position: relative;
+z-index: 0;
+background-color: rgb(49, 44, 44);
+width: 100vw;
+}
+
+.circle_leftt{
+    width: 600px;
+    background-color:#F05326
+    ;
+    height: 550px;
+    border-radius: 50% ;
+    position: absolute;
+    left: -370px;
+    top: 270px;
+    z-index: 0;
+    overflow: hidden;
+
+}
+
+  
+.circle_rightt{
+    width: 600px;
+    background-color:#F05326;
+    height: 550px;
+    border-radius: 50% ;
+    /* border-bottom-right-radius: 600px * 2;
+    border-top-right-radius: 600px * 2; */
+    position: absolute;
+    top: 270px;
+    right: -370px;
+    overflow: hidden;
+
+}
+
+.aboutus_details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   gap: 50px;
+    position: relative;
+    top: 550px;
+}
+.aboutus_container{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}
+.about_icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 150px;
+}
+.form_inputs{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}

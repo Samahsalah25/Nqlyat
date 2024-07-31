@@ -1,0 +1,22 @@
+.container_content__icons_arrow2{
+    display: flex;
+    gap: 15px;
+}
+.container_content_arrow2{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    position: relative;
+    text-align: center;
+ background-color: rgb(240, 83, 38);
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ box-shadow: 2px 4px 10px rgba(49, 44, 44, 0.5); 
+ cursor: pointer;
+
+ 
+}
+.container_content_arrow2:hover{
+    background-color: rgb(240, 83, 38);
+}

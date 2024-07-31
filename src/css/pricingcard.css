@@ -1,0 +1,15 @@
+.Card_pricing{
+    width: calc(100%/3.7);
+    padding: 10px;
+    background-color:  rgba(255, 255, 255, 0.07);
+    border-radius: 40px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    height: 320px;
+
+}
+.Card_pricing:hover{
+    background-color:#F05326 ;
+}
