@@ -1,0 +1,20 @@
+.container_content_arrow1{
+    position: relative;
+}
+.container_content_arrow1 .arrow{
+    font-size: 80px;
+    position:relative;
+    top: -20px;
+   
+
+}
+.container_content_arrow1 .arrow2{
+    font-size: 100px;
+    position:relative;
+    top: 5px;
+    left: -120px;
+    opacity: 0.1;
+    color: white;
+
+
+}

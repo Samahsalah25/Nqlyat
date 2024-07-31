@@ -1,0 +1,33 @@
+body{
+
+}
+.Pricing{
+  
+    background-image: url('../images/5.png');
+    background-size: cover;
+ background-repeat: no-repeat;
+ display: flex;
+ flex-direction: column;
+ gap: 30px;
+ padding: 50px;
+ padding-left: 100px;
+ padding-bottom: 10px;
+ padding-top: 100px;
+ overflow: hidden;
+}
+.Pricing_title{
+    display: flex;
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+    
+}
+.Pricing_details{
+    padding: 100px;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
